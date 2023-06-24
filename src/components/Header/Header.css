@@ -1,0 +1,18 @@
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+.logo-container img{
+    width: 70px;
+}
+.route-container a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: rgb(0, 5, 7);
+    font-weight: 600;
+}
+.route-container a:hover{
+    color: brown;
+}
