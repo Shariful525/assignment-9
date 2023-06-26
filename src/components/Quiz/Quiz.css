@@ -1,0 +1,10 @@
+.options{
+    margin-bottom: 5px;
+}
+
+.quiz-correct{
+    color: green;
+}
+.quiz-incorrect{
+    color: red;
+}

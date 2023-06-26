@@ -10,8 +10,8 @@ const Header = () => {
             </div>
 
             <div className='route-container'>
-                <Link to='/'>Home</Link>
-                <Link to='/quiz'>Quiz</Link>
+                <Link to='/'>Topics</Link>
+
                 <Link to='/statistics'>Statistics</Link>
                 <Link to='/blog'>Blog</Link>
             </div>

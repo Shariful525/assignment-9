@@ -6,7 +6,7 @@ import Card from '../Card/Card';
 const Home = () => {
     const languages = useLoaderData();
     const datas = languages.data;
-    console.log(datas);
+
 
     return (
         <div>

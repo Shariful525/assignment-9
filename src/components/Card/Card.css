@@ -23,11 +23,16 @@
     
 }
 
-.card-info button{
+.card-info  p:last-child{
     border: 0;
     background: rgb(55, 100, 182);
     color: #ffff;
     padding: 5px 10px;
     border-radius: 5px;
+}
+
+.card-info p:last-child> a{
+    text-decoration: none;
+    color: #ffff;
 }
 
